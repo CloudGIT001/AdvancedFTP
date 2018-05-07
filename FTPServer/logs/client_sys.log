@@ -1,0 +1,577 @@
+05/02/2018 05:31:00 PM-INFO-|------User Login Interface------
+        1: Land
+        2: register
+        3: Sign out
+    
+05/02/2018 05:31:12 PM-INFO-|------User Login Interface------
+    1: Land
+    2: register
+    3: Sign out
+    
+05/02/2018 10:49:37 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 10:49:51 PM-INFO-|--Login Success....
+05/02/2018 10:49:51 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: Switch directory operation
+    4¡¢View the files under the directory
+    5¡¢Sign out
+    
+05/02/2018 10:50:03 PM-INFO-|--Files under the current directory....
+05/02/2018 10:51:22 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 10:51:28 PM-INFO-|--Login Success....
+05/02/2018 10:51:28 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: Switch directory operation
+    4¡¢View the files under the directory
+    5¡¢Sign out
+    
+05/02/2018 10:51:30 PM-INFO-|--Files under the current directory....
+05/02/2018 10:51:30 PM-INFO-1£ºalt_demo-openrc.sh
+05/02/2018 10:51:30 PM-INFO-2£ºid_rsa
+05/02/2018 10:51:30 PM-INFO-3£ºid_rsa.pub
+05/02/2018 10:51:30 PM-INFO-4£ºid_rsa1111
+05/02/2018 10:51:36 PM-INFO-|--The file upload success....
+05/02/2018 10:51:36 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: Switch directory operation
+    4¡¢View the files under the directory
+    5¡¢Sign out
+    
+05/02/2018 10:51:40 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 10:52:21 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 10:52:34 PM-INFO-|--Login Success....
+05/02/2018 10:52:34 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: Switch directory operation
+    4¡¢View the files under the directory
+    5¡¢Sign out
+    
+05/02/2018 10:52:38 PM-INFO-1£ºdemo-openrc.sh
+05/02/2018 10:52:38 PM-INFO-2£ºofile
+05/02/2018 10:52:41 PM-INFO-|--Ready to start downloading files....
+05/02/2018 10:52:41 PM-INFO-|--The file download success....
+05/02/2018 10:52:41 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: Switch directory operation
+    4¡¢View the files under the directory
+    5¡¢Sign out
+    
+05/02/2018 10:54:52 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 10:55:00 PM-INFO-|--Login Success....
+05/02/2018 10:55:00 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: Switch directory operation
+    4¡¢View the files under the directory
+    5¡¢Sign out
+    
+05/02/2018 10:55:05 PM-INFO-['ls', 'cd']
+05/02/2018 10:57:18 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 10:57:21 PM-ERROR-|--Input Error....
+05/02/2018 10:57:21 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 10:57:29 PM-INFO-|--Login Success....
+05/02/2018 10:57:29 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: Switch directory operation
+    4¡¢View the files under the directory
+    5¡¢Sign out
+    
+05/02/2018 11:00:16 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 11:00:27 PM-INFO-|--Login Success....
+05/02/2018 11:00:27 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: Switch directory operation
+    4¡¢View the files under the directory
+    5¡¢Sign out
+    
+05/02/2018 11:01:33 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 11:01:39 PM-INFO-|--Login Success....
+05/02/2018 11:01:39 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: Switch directory operation
+    4¡¢View the files under the directory
+    5¡¢Sign out
+    
+05/02/2018 11:01:41 PM-INFO-|--The current directory contains the following file content....
+05/02/2018 11:01:41 PM-INFO-|--Disk size£º19101kb
+05/02/2018 11:01:41 PM-INFO-|--Directory£º[
+05/02/2018 11:01:41 PM-INFO-|--Directory£º'
+05/02/2018 11:01:41 PM-INFO-|--Directory£ºo
+05/02/2018 11:01:41 PM-INFO-|--Directory£ºt
+05/02/2018 11:01:41 PM-INFO-|--Directory£ºh
+05/02/2018 11:01:41 PM-INFO-|--Directory£ºe
+05/02/2018 11:01:41 PM-INFO-|--Directory£ºr
+05/02/2018 11:01:41 PM-INFO-|--Directory£ºs
+05/02/2018 11:01:41 PM-INFO-|--Directory£º'
+05/02/2018 11:01:41 PM-INFO-|--Directory£º]
+05/02/2018 11:01:41 PM-INFO-|File£ºdemo-openrc.sh
+05/02/2018 11:01:41 PM-INFO-|File£ºofile
+05/02/2018 11:01:41 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: Switch directory operation
+    4¡¢View the files under the directory
+    5¡¢Sign out
+    
+05/02/2018 11:02:31 PM-INFO-['ls', 'cd']
+05/02/2018 11:28:12 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 11:28:18 PM-INFO-|--Login Success....
+05/02/2018 11:28:18 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: Switch directory operation
+    4¡¢View the files under the directory
+    5¡¢Sign out
+    
+05/02/2018 11:28:21 PM-INFO-|--The current directory contains the following file content....
+05/02/2018 11:28:21 PM-INFO-|--Disk size£º19101kb
+05/02/2018 11:28:21 PM-INFO-|--Directory£º91
+05/02/2018 11:28:21 PM-INFO-|--Directory£º39
+05/02/2018 11:28:21 PM-INFO-|--Directory£º111
+05/02/2018 11:28:21 PM-INFO-|--Directory£º116
+05/02/2018 11:28:21 PM-INFO-|--Directory£º104
+05/02/2018 11:28:21 PM-INFO-|--Directory£º101
+05/02/2018 11:28:21 PM-INFO-|--Directory£º114
+05/02/2018 11:28:21 PM-INFO-|--Directory£º115
+05/02/2018 11:28:21 PM-INFO-|--Directory£º39
+05/02/2018 11:28:21 PM-INFO-|--Directory£º93
+05/02/2018 11:28:21 PM-INFO-|File£ºdemo-openrc.sh
+05/02/2018 11:28:21 PM-INFO-|File£ºofile
+05/02/2018 11:28:21 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: Switch directory operation
+    4¡¢View the files under the directory
+    5¡¢Sign out
+    
+05/02/2018 11:32:36 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 11:32:42 PM-INFO-|--Login Success....
+05/02/2018 11:32:42 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/02/2018 11:32:54 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 11:33:18 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 11:33:34 PM-INFO-|--Login Success....
+05/02/2018 11:33:34 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/02/2018 11:33:37 PM-INFO-['ls', 'cd']
+05/02/2018 11:34:04 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 11:34:10 PM-INFO-|--Login Success....
+05/02/2018 11:34:10 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/02/2018 11:35:17 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 11:35:24 PM-INFO-|--Login Success....
+05/02/2018 11:35:24 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/02/2018 11:35:52 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 11:35:59 PM-INFO-|--Login Success....
+05/02/2018 11:35:59 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/02/2018 11:37:33 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/02/2018 11:37:43 PM-INFO-|--Login Success....
+05/02/2018 11:37:43 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/02/2018 11:37:46 PM-INFO-['ls', 'cd']
+05/03/2018 12:26:27 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:26:34 AM-INFO-|--Login Success....
+05/03/2018 12:26:34 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/03/2018 12:26:44 AM-INFO-['ls', 'cd']
+05/03/2018 12:26:59 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:27:05 AM-INFO-|--Login Success....
+05/03/2018 12:27:05 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/03/2018 12:27:09 AM-INFO-|--The current directory contains the following file content....
+05/03/2018 12:27:09 AM-INFO-|--Disk size£º19101kb
+05/03/2018 12:27:09 AM-INFO-|--Directory£º91
+05/03/2018 12:27:09 AM-INFO-|--Directory£º39
+05/03/2018 12:27:09 AM-INFO-|--Directory£º111
+05/03/2018 12:27:09 AM-INFO-|--Directory£º116
+05/03/2018 12:27:09 AM-INFO-|--Directory£º104
+05/03/2018 12:27:09 AM-INFO-|--Directory£º101
+05/03/2018 12:27:09 AM-INFO-|--Directory£º114
+05/03/2018 12:27:09 AM-INFO-|--Directory£º115
+05/03/2018 12:27:09 AM-INFO-|--Directory£º39
+05/03/2018 12:27:09 AM-INFO-|--Directory£º93
+05/03/2018 12:27:09 AM-INFO-|--File£ºdemo-openrc.sh
+05/03/2018 12:27:09 AM-INFO-|--File£ºofile
+05/03/2018 12:27:09 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/03/2018 12:27:59 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:28:06 AM-INFO-|--Login Success....
+05/03/2018 12:28:06 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/03/2018 12:28:15 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:28:23 AM-INFO-|--Login Success....
+05/03/2018 12:28:23 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/03/2018 12:28:25 AM-INFO-['ls', 'cd']
+05/03/2018 12:28:39 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:28:48 AM-INFO-|--Login Success....
+05/03/2018 12:28:48 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/03/2018 12:29:26 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:29:34 AM-INFO-|--Login Success....
+05/03/2018 12:29:34 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/03/2018 12:29:46 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:29:50 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:29:56 AM-INFO-|--Login Success....
+05/03/2018 12:29:56 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/03/2018 12:31:14 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:31:21 AM-INFO-|--Login Success....
+05/03/2018 12:31:21 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/03/2018 12:31:24 AM-INFO-|--Files under the current directory....
+05/03/2018 12:31:24 AM-INFO-1£ºalt_demo-openrc.sh
+05/03/2018 12:31:24 AM-INFO-2£ºid_rsa
+05/03/2018 12:31:24 AM-INFO-3£ºid_rsa.pub
+05/03/2018 12:31:24 AM-INFO-4£ºid_rsa1111
+05/03/2018 12:31:24 AM-INFO-5£ºofile
+05/03/2018 12:31:42 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:31:57 AM-INFO-|--Login Success....
+05/03/2018 12:31:57 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/03/2018 12:34:25 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:34:31 AM-INFO-|--Login Success....
+05/03/2018 12:34:31 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/03/2018 12:44:55 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:45:03 AM-INFO-|--Login Success....
+05/03/2018 12:45:03 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/03/2018 12:45:14 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:45:20 AM-INFO-|--Login Success....
+05/03/2018 12:45:20 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/03/2018 12:45:23 AM-INFO-|--The current directory contains the following file content....
+05/03/2018 12:45:23 AM-INFO-|--Disk size£º19101kb
+05/03/2018 12:45:23 AM-INFO-|--Directory£º91
+05/03/2018 12:45:23 AM-INFO-|--Directory£º39
+05/03/2018 12:45:23 AM-INFO-|--Directory£º111
+05/03/2018 12:45:23 AM-INFO-|--Directory£º116
+05/03/2018 12:45:23 AM-INFO-|--Directory£º104
+05/03/2018 12:45:23 AM-INFO-|--Directory£º101
+05/03/2018 12:45:23 AM-INFO-|--Directory£º114
+05/03/2018 12:45:23 AM-INFO-|--Directory£º115
+05/03/2018 12:45:23 AM-INFO-|--Directory£º39
+05/03/2018 12:45:23 AM-INFO-|--Directory£º93
+05/03/2018 12:45:23 AM-INFO-|--File£ºdemo-openrc.sh
+05/03/2018 12:45:23 AM-INFO-|--File£ºofile
+05/03/2018 12:45:23 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/03/2018 12:45:40 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:45:47 AM-INFO-|--Login Success....
+05/03/2018 12:45:47 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/03/2018 12:46:08 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:46:17 AM-INFO-|--Login Success....
+05/03/2018 12:46:17 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/03/2018 12:47:11 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:47:20 AM-ERROR-|--Login Error....
+05/03/2018 12:47:20 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:47:28 AM-ERROR-|--Login Error....
+05/03/2018 12:47:28 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:48:09 AM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/03/2018 12:48:16 AM-INFO-|--Login Success....
+05/03/2018 12:48:16 AM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/07/2018 11:06:35 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/07/2018 11:06:54 PM-INFO-|--Login Success....
+05/07/2018 11:06:54 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/07/2018 11:25:13 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
+05/07/2018 11:26:46 PM-INFO-|--Login Success....
+05/07/2018 11:26:46 PM-INFO-------Operation instruction------
+    1: Uploading files
+    2: Download the file
+    3: View the files under the directory
+    4: Switch directory operation
+    5¡¢Sign out
+    
+05/07/2018 11:27:37 PM-INFO-|------User Login Interface------
+    1: Land
+    2: Register
+    3: Sign out
+    
